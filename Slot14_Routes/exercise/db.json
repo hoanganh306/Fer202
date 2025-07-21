@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello React",
+      "content": "Welcome to React + JSON Server!"
+    },
+    {
+      "id": "2",
+      "title": "Advanced Routing",
+      "content": "Learn how to use React Router effectively."
+    }
+  ]
+}
